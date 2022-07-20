@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Sou Pedro e é um prazer imenso ter você aqui!!! 👋
 
-<!--
-**pedrocelils/pedrocelils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software. Abaixo segue algumas informações sobre mim.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalhando como suporte técnico (HelpDesk).
+- 🌱 Estudos frequentes: Java / Spring boot / Spring Security / SpringMVC / Mongo / Oracle / Postgresql / MySQL.
+- 🤔 Quero estar sempre aprendendo. Caso queira repassar conhecimento, entre em contato comigo abaixo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href = "mailto:pedroceliob3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/pedro-c%C3%A9lio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
