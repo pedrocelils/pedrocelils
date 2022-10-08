@@ -4,7 +4,7 @@ Sou estudante de Engenharia de Software. Abaixo segue algumas informações sobr
 
 - 🔭 Atualmente trabalhando como suporte técnico (HelpDesk).
 - 🌱 Estudos frequentes: Java / Spring boot / Spring Security / SpringMVC / Mongo / Oracle / Postgresql / MySQL.
-- 🤔 Quero estar sempre aprendendo. Caso queira repassar conhecimento, entre em contato comigo abaixo!
+- 🤔 Quero estar sempre aprendendo. Caso queira repassar conhecimento, entre em contato comigo!
 
 <div> 
   <a href = "pedroceliob3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
